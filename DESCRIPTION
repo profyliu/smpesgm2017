@@ -1,0 +1,15 @@
+Package: smpesgm2017
+Type: Package
+Title: Code for the paper Timely Detection of Abnormal Inactivity using Smart Meter Data
+Version: 0.1.0
+Authors@R: c(person("Yanchao", "Liu", email = "yanchaoliu@wayne.edu", role = c("aut","cre")),
+           person("Tingli", "Hu", email = "tinglih@wayne.edu", role = c("ctb")),
+           person("Caisheng", "Wang", email = "cwang@wayne.edu", role = c("ctb")))
+Maintainer: The package maintainer <yanchaoliu@wayne.edu>
+Description: Anomaly detection algorithm and experimentation for the paper submitted to PESGM 2018.
+License: Free
+Encoding: UTF-8
+LazyData: true
+URL: yliu.eng.wayne.edu
+Imports: mvtnorm
+RoxygenNote: 6.0.1
