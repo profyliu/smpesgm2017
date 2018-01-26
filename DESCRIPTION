@@ -10,6 +10,7 @@ Description: Anomaly detection algorithm and experimentation for the paper submi
 License: Free
 Encoding: UTF-8
 LazyData: true
-URL: yliu.eng.wayne.edu
+URL: https://github.com/profyliu/smpesgm2017
+BugReports: https://github.com/profyliu/smpesgm2017/issues
 Imports: mvtnorm
 RoxygenNote: 6.0.1
